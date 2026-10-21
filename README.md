@@ -25,7 +25,7 @@
 
 - 🧠 **AI Engineer** focused on **LLM applications, RAG, and multi-agent systems**.
 - ⚙️ I build the backend around the model too: **APIs, data pipelines, and cloud deployment**.
-- 👁️ Background in **full-stack development and computer vision, LLM** (YOLO, OCR).
+- 👁️ Background in **full-stack development and computer vision** (YOLO, OCR).
 - 🎓 **MSc Informatics student** in Prague.
 - 💼 **Open to remote and part-time AI engineering roles.**
 
@@ -48,9 +48,9 @@
 | Project | What it does | Stack |
 | :--- | :--- | :--- |
 | [**Investment Research Multi-Agent System**](https://github.com/AlpenChristy/Investment-research-multiagent) | Specialised AI agents research a stock in parallel and a synthesizer produces a BUY / HOLD / SELL thesis, including a bull vs bear debate | `Python` `FastAPI` `LangGraph` `OpenAI` `Pydantic` |
+| [**AI Trade Opportunity Scanner**](https://github.com/AlpenChristy/Trade-Scanner) | Real-time scanner across 500+ stocks that detects breakouts, 52-week high/low breaks, EMA crossovers and trend reversals, then uses an LLM to rank opportunities and send alerts | `Python` `OpenAI` |
+| [**Algo Screener**](https://github.com/AlpenChristy/algo-screener) | Algorithmic stock screener that filters and ranks stocks against technical criteria | `Python` |
 | [**setu-auth**](https://github.com/AlpenChristy/setu-auth) | Offline-first facial recognition and geofenced attendance system for remote, no-network environments, with on-device matching and liveness detection | `TypeScript` `MobileFaceNet` |
-
-<!-- Add more projects here as you make them public, for example the AI Trade Opportunity Scanner -->
 
 ---
 
